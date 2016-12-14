@@ -1,7 +1,6 @@
 aligner
 aligner-javascript
 atom-beautify
-atom-ternjs
 autoclose-html
 autocomplete-emojis
 autocomplete-paths
@@ -29,5 +28,4 @@ platformio-ide-terminal
 pretty-json
 project-manager
 sort-lines
-sync-settings
 todo-show
