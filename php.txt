@@ -1,0 +1,5 @@
+aligner-php
+atom-autocomplete-php
+hyperclick-php
+linter-php
+php-debug
